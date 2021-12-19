@@ -1,0 +1,31 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "a simple node js to do list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WiemLagha/To-do-app.git"
+  },
+  "keywords": [
+    "to",
+    "do",
+    "list",
+    "nodejs",
+    "app"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WiemLagha/To-do-app/issues"
+  },
+  "homepage": "https://github.com/WiemLagha/To-do-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  }
+}
